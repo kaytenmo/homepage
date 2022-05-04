@@ -44,11 +44,4 @@ const bookmarks = [
       { name: "Facebook", url: "https://facebook.com" },
     ],
   },
-   {
-    title: "Social 2",
-    links: [
-      { name: "Twitter", url: "https://twitter.com" },
-      { name: "Facebook", url: "https://facebook.com" },
-    ],
-  },
 ];
